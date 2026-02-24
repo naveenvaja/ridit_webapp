@@ -1,5 +1,1 @@
-fastapi
-uvicorn
-firebase-admin
-python-dotenv
-PyJWT
+npm install && npm run build
